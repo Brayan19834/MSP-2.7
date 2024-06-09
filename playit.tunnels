@@ -14,7 +14,7 @@
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "792aee4b-e2f0-4c39-87d2-ffef40f4a8ea",
+          "id": "9123bce9-e099-4960-b9a9-f07428a3e676",
           "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
           "port_end": 13520,
@@ -25,17 +25,17 @@
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-09T17:42:23.552996Z",
+      "created_at": "2024-06-09T19:20:16.007063Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "78e638c6-a932-441a-90c1-7490c16d5069",
+      "id": "9a981567-ca24-4a39-9abe-606190270a81",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "4b38eb55-77a6-45bd-a503-9028acbce42b",
-          "agent_name": "amigos ",
+          "agent_id": "05a10d82-3e00-4148-8d29-8ab9362c99be",
+          "agent_name": "subcero",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
