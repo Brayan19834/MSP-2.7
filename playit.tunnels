@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "estate-tour.gl.joinmc.link",
-          "assigned_srv": "estate-tour.gl.joinmc.link",
+          "assigned_domain": "offer-limousines.gl.joinmc.link",
+          "assigned_srv": "offer-limousines.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "b2168917-b985-4697-829c-de9d4008e552",
-          "ip_hostname": "20.ip.gl.ply.gg",
+          "id": "777e4165-f9bd-4780-953a-8719bc39390d",
+          "ip_hostname": "17.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 21264,
-          "port_start": 21263,
+          "port_end": 27952,
+          "port_start": 27951,
           "region": "global",
-          "static_ip4": "147.185.221.20",
-          "tunnel_ip": "2602:fbaf:0:1::14"
+          "static_ip4": "147.185.221.17",
+          "tunnel_ip": "2602:fbaf:0:1::11"
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-12T18:50:49.867472Z",
+      "created_at": "2024-06-21T22:36:01.180485Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "0df2b2d9-50dc-4098-adaa-c2eb281064e3",
+      "id": "3dcd5512-1fbf-4f83-8c63-1f57b6545c9d",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "10260520-b02a-480a-b5b1-35e24b3899d8",
-          "agent_name": "from-key-d0f5",
+          "agent_id": "a32e521b-f332-41e8-9573-c76da1c060a8",
+          "agent_name": "sexoapartamento",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
